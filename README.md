@@ -1,4 +1,4 @@
 # Arashad-demo
 This is my first git Repository.
 <br>
-Author-Arashad Ahamad
+Author-Arashad Ahamad (Front end Developer) 
